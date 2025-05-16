@@ -1,0 +1,5 @@
+@EndUserText.label: 'Sổ chi tiết tài khoản'
+define service ZUI_FI_SCTTK {
+  expose ZI_FI_SCTTK;
+  expose ZI_FI_SCTTK_COUNT;
+}
